@@ -86,6 +86,8 @@ or variables automatically appear.
 1. [**Node JS**](http://nodejs.org/): Server-side framework that lets you write
 the back end for applications in javascript. Includes modules for access to the
 file system and other things you can't do as easily in the browser.
+1. [**The Art of Node**](https://github.com/maxogden/art-of-node): An online
+book about Node. Prettier than most PDFs and very informative.
 
 ## Package Management
 
