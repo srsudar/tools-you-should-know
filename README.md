@@ -9,10 +9,6 @@ for, and then see that it has thousands of stars and everyone already knows
 about it. This collection should give you a good place to start looking for
 useful and popular tools, especially if you're new to a language.
 
-> This started with just Android, which is much easier to maintain. If this
-starts getting too hard to maintain or too to be useful, it will be split up.
-
-
 # Android
 
 ## Testing
