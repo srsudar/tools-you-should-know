@@ -162,3 +162,20 @@ serialization.
 1. [**Hibernate**](http://docs.jboss.org/hibernate/orm/4.2/quickstart/en-US/html/):
 An Object Relational Mapping (ORM) framework for Java. Maps simple Java objects
 to database objects, handling persistence for you.
+
+# APIs
+
+## Creating APIs
+
+1. [**Whitehouse API Guide**](https://github.com/WhiteHouse/api-standards): A
+guide from the Whitehouse outlining best practices for creating web api
+enpoints.
+
+1. [**Heroku HTTP API Guide**](https://github.com/interagent/http-api-design): A guide for
+creating HTTP endpoints from the creators of Heroku.
+
+## Documenting and Verifying
+
+1. [**prmd**](https://github.com/interagent/prmd): A tool for describing and
+documenting your API endpoints. Write the API using a JSON schema, and get
+documentation, verification, and tools to test it for free.
