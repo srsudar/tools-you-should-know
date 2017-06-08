@@ -64,7 +64,7 @@ output in a script tag, and access the module using `require()`.
 
 ## Testing
 
-1. [**Mocha**](http://visionmedia.github.io/mocha/): A testing framework with
+1. [**Mocha**](http://mochajs.org/): A testing framework with
 pretty output in the browser. Relies on other assertion frameworks.
 
 1. [**Jasmine**](http://jasmine.github.io/2.0/introduction.html): A testing
